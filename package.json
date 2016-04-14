@@ -1,0 +1,27 @@
+{
+  "name": "samang",
+  "version": "0.0.1",
+  "description": "study ng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liminshen/angular.git"
+  },
+  "keywords": [
+    "webpack+gulp+ng"
+  ],
+  "author": "sam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liminshen/angular/issues"
+  },
+  "homepage": "https://github.com/liminshen/angular#readme",
+  "devDependencies": {
+    "angular": "^1.5.3",
+    "gulp": "^3.9.1",
+    "webpack": "^1.12.15"
+  }
+}
